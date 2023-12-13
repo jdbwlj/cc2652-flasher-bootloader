@@ -2,21 +2,21 @@
 configuration:
   device:
     name: Device
-    description: The serial port where the CC2652 radio is connected to.
+    description: 选择发现的串行设备 .
   network_device:
     name: Network Device
-    description: The ip address and port of your network connected CC2652 radio. IP_ADDRESS:PORT
+    description: 填入CC2652P远程的串行设备 .ip+端口号
   flow_control:
     name: Hardware flow control
-    description: Enable hardware flow control for serial port.
+    description: 启用串行端口的硬件流控制。.
   firmware_url:
     name: Firmware URL
     description: >-
-      URL for firmware zip image you wish to flash
+      您想要更新固件的URL
   trigger_esphome_bsl:
     name: Enable Bootloader mode with ESPHome
     description: >-
-      Enables the addon to trigger bootloader mode by talking directly to ESPHome (requires most recent esphome FW from https://github.com/tube0013/tube_gateways)
+      使用 ESPHome 启用 Bootloader 模式
   device_type:
     name: Flash USB Device
-    description: Flash USB device instead of Network Device (Requires you to trigger bootloader mode by holding BSL button while plugging in to USB)
+    description: 闪存 USB 设备而不是网络设备（要求您在插入 USB 时按住 BSL 按钮来触发引导加载程序模式）)
