@@ -1,8 +1,8 @@
 ---
 version: 0.2.2
 slug: tzb-cc2652-flasher
-name: TubesZB TI CC2652 FW Flasher
-description: TubesZB TI CC2652 firmware flasher add-on
+name: TI CC2652 FW Flasher
+description: CC2652P 在线更新 加载项插件
 url: >
   https://tube0013/tubeszb_addons/tree/master/tzb-cc2652-flasher/
 arch:
