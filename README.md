@@ -7,3 +7,16 @@ Home Assistant 的加载项插件可让您轻松地更新协调器固件
 ## 此存储库提供的加载项插件
 
 - **[CC2652P bootloader ota 加载项插件](https://github.com/jdbwlj/cc2652-flasher-bootloader/blob/main/tzb-cc2652-flasher/DOCS.md)**
+- 
+![Supports aarch64 Architecture][aarch64-shield]
+![Supports amd64 Architecture][amd64-shield]
+![Supports armhf Architecture][armhf-shield]
+![Supports armv7 Architecture][armv7-shield]
+![Supports i386 Architecture][i386-shield]
+
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
