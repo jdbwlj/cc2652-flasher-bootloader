@@ -6,10 +6,7 @@
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/jdbwlj/cc2652-flasher-bootloader)
 
-或者，在 Home Assistant 中，导航至配置>附加组件、备份和主管>附加组件存储> ... >存储库并添加https://github.com/jdbwlj/cc2652-flasher-bootloader到列表中.
-
-
-Video Walk Through: https://www.youtube.com/watch?v=W28hdRx0mV4
+或者，在 Home Assistant 中，导航至配置>附加组件、备份和主管>附加组件存储> ... >存储库并添加https://github.com/jdbwlj/cc2652-flasher-bootloader.
 
 1. 在 Home Assistant 前端导航至 **配置** -> **加载项, 加载项仓库** -> **仓库-添加仓库**.
 2. 安装 TubesZB TI CC2652 FW Flasher.
