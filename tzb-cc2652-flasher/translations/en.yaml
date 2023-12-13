@@ -2,7 +2,7 @@
 configuration:
   device:
     name: Device
-    description: 选择发现的串行设备 .
+    description: 选择发现的串口设备 .
   network_device:
     name: Network Device
     description: 填入CC2652P远程的串行设备 .ip+端口号
@@ -19,4 +19,4 @@ configuration:
       使用 ESPHome 启用 Bootloader 模式
   device_type:
     name: Flash USB Device
-    description: 闪存 USB 设备而不是网络设备（要求您在插入 USB 时按住 BSL 按钮来触发引导加载程序模式）)
+    description: 选择USB串口设备而不是网络设备（要求您在插入USB时按住boot键按钮来触发Bootloader模式）)
