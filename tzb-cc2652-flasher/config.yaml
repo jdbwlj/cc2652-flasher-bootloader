@@ -1,7 +1,7 @@
 ---
 version: 0.2.2
 slug: tzb-cc2652-flasher
-name: cc2652-flasher-bootloader
+name: CC2652P-Flasher-BootLoader
 description: CC2652P 在线更新 加载项插件
 url: >
   https://github.com/jdbwlj/cc2652-flasher-bootloader/tree/main/tzb-cc2652-flasher/
