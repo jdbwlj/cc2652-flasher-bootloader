@@ -5,7 +5,7 @@ configuration:
     description: 选择发现的串口设备 .
   network_device:
     name: Network Device
-    description: 填入CC2652P远程的串行设备 .ip+端口号
+    description: 填入CC2652P远程的串行设备（由IP地址+端口）.
   flow_control:
     name: Hardware flow control
     description: 启用串行端口的硬件流控制。.
